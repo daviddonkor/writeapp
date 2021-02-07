@@ -1,0 +1,5 @@
+{
+      "mongoURI":"mongodb://root:password@127.0.0.1:27017/writeapp?authSource=admin",
+    "jwtSecret":"what can be hidden in",
+    "mongoURIProduction":"mongodb+srv://writeapp:writeapp@writeappcluster.plex9.mongodb.net/writeapp?retryWrites=true&w=majority"
+}
